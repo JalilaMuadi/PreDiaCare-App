@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111036827471",
+    "project_id": "prediacareencs5300-8b117",
+    "storage_bucket": "prediacareencs5300-8b117.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111036827471:android:8d0d94fe63ed1d78af273a",
+        "android_client_info": {
+          "package_name": "com.example.prediacare_graduationproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVAH0gKjlQwDuAu2cGAGdqQmWnlPDTdcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
