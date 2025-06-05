@@ -5,6 +5,7 @@ import pandas as pd
 app = Flask(__name__)
 
 # Load your trained model and metadata
+
 model, encoded_columns, df, recommendation_columns = joblib.load("recommendation_system.joblib")
 
 @app.route('/recommend', methods=['POST'])
